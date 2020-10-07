@@ -12,6 +12,11 @@ HippoCrop images in the dataset are the rectangular cut out portion of a brain s
 ### Workflow
 The model integrates into a working clinical PACS such that it runs on every incoming study and produces a report with volume measurements.
 
+## Details
+Section1 = Exploratory Data Analysis
+Section2 = Train
+Section 3 = Run in workflow
+
 ## Background
 
 Alzheimer's disease (AD) is a progressive neurodegenerative disorder that results in impaired neuronal (brain cell) function and eventually, cell death. AD is the most common cause of dementia. Clinically, it is characterized by memory loss, inability to learn new material, loss of language function, and other manifestations.

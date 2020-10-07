@@ -13,9 +13,13 @@ HippoCrop images in the dataset are the rectangular cut out portion of a brain s
 The model integrates into a working clinical PACS such that it runs on every incoming study and produces a report with volume measurements.
 
 ## Details
+
 Section1 = Exploratory Data Analysis
+
 Section2 = Train
+
 Section 3 = Run in workflow
+
 
 ## Background
 
